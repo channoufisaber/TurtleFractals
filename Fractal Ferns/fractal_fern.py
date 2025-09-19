@@ -1,6 +1,6 @@
 # Algorithm Credit: https://en.wikipedia.org/wiki/Barnsley_fern
 # Fern Parameters Credit: https://www.chradams.co.uk/fern/maker.html
-# Uncomment fern parameters to plot desrired fern
+# Uncomment fern parameters to plot desired fern
 
 import turtle
 import random
