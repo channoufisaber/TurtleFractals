@@ -4,6 +4,7 @@ This is a collection of small python programs done as experiments which plot fra
 
 ![ModifiedBarnsleyFern_100K_Orange_resized](https://github.com/user-attachments/assets/c7956f34-f715-41d2-ba71-37f2bdf2f793)
 
+_A modified Barnsley fern produced by the code (Max iterations = 100 000)_
 
 # References
 Sierpinski Fractals
