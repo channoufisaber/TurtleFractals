@@ -2,7 +2,8 @@
 
 This is a collection of small python programs done as experiments which plot fractals using the Turtle graphics library.
 
-![ModifiedBarnsleyFern_100K_Orange](https://github.com/user-attachments/assets/c27da21e-40e7-4a86-b251-4708361c8289)
+![ModifiedBarnsleyFern_100K_Orange_resized](https://github.com/user-attachments/assets/c7956f34-f715-41d2-ba71-37f2bdf2f793)
+
 
 # References
 Sierpinski Fractals
