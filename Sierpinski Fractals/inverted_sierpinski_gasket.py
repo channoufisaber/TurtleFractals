@@ -75,7 +75,6 @@ def draw_sierpinski_triangle(startx, starty, tr_pos_x, tr_pos_y, tr_size, tr_col
             return
         if nlevel == 1:    
             draw_dividing_triangle(tr_pos_x, tr_pos_y, tr_size / 2, tr_color)
-            return
         elif nlevel > 1:
             draw_dividing_triangle(tr_pos_x, tr_pos_y, tr_size / 2, tr_color)
             draw_subordinate_triangles(tr_pos_x, tr_pos_y, tr_size / 2, tr_color, nlevel - 1)

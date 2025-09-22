@@ -66,7 +66,7 @@ def draw_subordinate_squares(sqx_pos, sqy_pos, sq_length, sq_color, fill_status,
     # draw the bottom right square
     pos_x[7] = sqx_pos + (4/3) * sq_length
     pos_y[7] = sqy_pos - (4/3) * sq_length
-    draw_square(pos_x[7], pos_y[7], new_size, sq_color, fill_status) 
+    draw_square(pos_x[7], pos_y[7], new_size, sq_color, fill_status)    
     
     if nlevel > 1:
      for i in range(8):
@@ -77,10 +77,11 @@ def draw_sierpinski_carpet(qx_pos, qy_pos, sq_length, sq_color, fill_status, nle
       return
    elif nlevel == 1:
       draw_square(qx_pos, qy_pos, sq_length, sq_color, fill_status)
-      return
-   elif nlevel > 1:
+   elif nlevel >= 1:
       draw_square(qx_pos, qy_pos, sq_length, sq_color, fill_status)
       draw_subordinate_squares(qx_pos, qy_pos, sq_length, sq_color, fill_status, nlevel-1)
+       
+       
   
 screen = turtle.Screen()
 screen.setup(800, 800)
