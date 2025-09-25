@@ -1,4 +1,4 @@
-# draws inverted sierpinski gasket
+# draws sierpinski gasket
 
 import turtle
 import math

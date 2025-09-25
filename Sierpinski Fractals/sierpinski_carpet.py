@@ -1,4 +1,4 @@
-# draws an inverted Sierpinski carpet
+# draws a Sierpinski carpet
 
 import turtle
 
